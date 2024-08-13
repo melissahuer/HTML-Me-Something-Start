@@ -1,1 +1,11 @@
 /* Write your CSS here! */
+
+body{
+    background-color: #c7edff;
+}
+header{
+    font-style: italic;
+    font-size: x-large;
+    font-display:initial;
+    
+}
