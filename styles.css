@@ -2,10 +2,38 @@
 
 body{
     background-color: #c7edff;
+    margin: 8px;
+    display: block;
 }
 header{
     font-style: italic;
     font-size: x-large;
     font-display:initial;
-    
 }
+.funParagraph{
+    color: green;
+}
+
+.paragraph{
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+.my-images{
+    padding: 20px;
+}
+
+.group-images{
+    text-align: center;
+}
+
+#mainHeading{
+    font-family: cursive;
+    margin: 30px;
+    text-align: center;
+    color: red;
+}
+
